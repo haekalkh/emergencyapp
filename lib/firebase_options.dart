@@ -54,6 +54,7 @@ class DefaultFirebaseOptions {
     appId: '1:989795674199:android:d576c394950c7d2a4c1b12',
     messagingSenderId: '989795674199',
     projectId: 'emergency-d2250',
+    databaseURL: 'https://emergency-d2250-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'emergency-d2250.appspot.com',
   );
 
@@ -62,6 +63,7 @@ class DefaultFirebaseOptions {
     appId: '1:989795674199:ios:486b5b41e89894e44c1b12',
     messagingSenderId: '989795674199',
     projectId: 'emergency-d2250',
+    databaseURL: 'https://emergency-d2250-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'emergency-d2250.appspot.com',
     iosBundleId: 'com.example.emergencyapps',
   );
