@@ -1,6 +1,5 @@
 # emergencyapps
-
-A new Flutter project.
+Emergency Apps is a mobile application built using Flutter, integrated with Firebase Realtime Database and Firebase Authentication. This application is designed to send emergency signals (true/false) to an ESP32 device, providing a fast and efficient solution in emergency situations.
 
 ## Getting Started
 
