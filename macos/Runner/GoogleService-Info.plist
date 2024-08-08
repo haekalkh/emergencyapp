@@ -26,5 +26,7 @@
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
 	<string>1:989795674199:ios:486b5b41e89894e44c1b12</string>
+	<key>DATABASE_URL</key>
+	<string>https://emergency-d2250-default-rtdb.asia-southeast1.firebasedatabase.app</string>
 </dict>
 </plist>
